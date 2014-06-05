@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/Q.d.ts
+../../d.ts/Q.d.ts
